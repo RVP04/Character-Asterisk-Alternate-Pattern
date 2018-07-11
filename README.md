@@ -1,7 +1,5 @@
 # Character-Asterisk-Alternate-Pattern
-
-<div class="ui header big">Character Asterisk Alternate Pattern</div>
-<br> <p>An integer N is passed as the input. The program must print the pattern as given in the Example Input/Output Section.</p>
+<p>An integer N is passed as the input. The program must print the pattern as given in the Example Input/Output Section.</p>
 
 <p><strong>Boundary Condition(s):</strong><br>
 2 &lt;= N &lt;= 100</p>
