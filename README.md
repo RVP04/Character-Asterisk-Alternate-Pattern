@@ -1,0 +1,1 @@
+# Character-Asterisk-Alternate-Pattern
